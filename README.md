@@ -2,11 +2,7 @@
 
 #This is a change
 
-<<<<<<< HEAD
-#This is first change
-=======
-#This is second change
->>>>>>> 4cadd174ea1836265b8d3dc682721eab8e223927
+#This is cool
 
 #change made by maxim pak
 
